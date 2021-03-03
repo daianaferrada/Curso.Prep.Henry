@@ -1,0 +1,21 @@
+VARIABLES: 
+ 
+Una variable es una caja que contiene información a la que se puede entrar. Es una caja que contiene algo, se puede abrir la caja para averiguar qué hay dentro,
+o  poner algo más en la caja.
+
+STRINGS:
+
+Es una caja a la cual se le puede ingresar palabras o simbolos.
+
+FUNCIONES:
+
+Es un lugar en el programa, en el cual se pueden hacer determinadas cosas, independiente al resto del programa.
+La sentencia return termina la ejecucion de una funcion y devuelve un valor o mensaje.
+
+DECLARACIONES IF:
+
+En un if se tiene que poner una condicion, es decir algo que se tiene que cumplir o no, si es asi, el programa hace algo, y si no es asi hace otra cosa.
+
+VALORES BOOLEANOS:
+
+El valor booleano puede ser false o true (verdadero o falso), se utiliza en la programacion.
